@@ -9,7 +9,7 @@ We are a college organization with varying and colorful ideas to be implemented 
 
 ## What is this project?  
 
-This project is made with collaboration of members of ISTESA to provide a useful, accessible and informative Web based platform for those who want to know more about us and also allow those around us to experiment, have a space to grow their business and show their findings here.
+This project is made with collaboration of members of ISTESA to provide an useful, accessible and informative Web based platform for those who want to know more about us and also allow those around us to experiment, have a space to grow their business and show their findings here.
 
 The main features we have currently have are : 
 
